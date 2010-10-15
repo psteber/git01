@@ -1,0 +1,5 @@
+GIT Commands
+
+git init - Create a git repository
+git status - Shows changes made to the current branch
+git add -A - Add all untracked files recursively
